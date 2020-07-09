@@ -45,6 +45,36 @@ public static void main(String[] args) {
 				JOptionPane.showMessageDialog(null, "More than $30 million were spent by Mark Zuckerberg so he would buy all neighboring houses. Ready and willing to evolve, you could be pushed\n to spend a lot more on some of\n your ideals than you have planned or anticipated, but you will still feel satisfied as time goes on.\n" + 
 						"\n" + 
 						"Investments you make today are meant to pay off over time, \nbut some should be done out of pure pleasure. Create balance instead of seeking only practical sides \nof your approach.");
+			}
+				else if (StarSign.contentEquals("Libra")) {
+					JOptionPane.showMessageDialog(null, "The worlds oldest known mouse lived just over 4 years. It is obvious that \ncertain things developed to their full bloom, but this doesnt \nmean they will last or satisfy you enough, for their potential might be a bit smaller than you have anticipated.\n" + 
+							"\n" + 
+							"What is found off charts should remain there, and you are to keep \nsecrets that arent yours to share at any cost. The imperative is being honest with yourself and speaking\n your mind truthfully while creating the healthiest distance to be on.");
+				}
+				else if (StarSign.contentEquals("Scorpio")) {
+					JOptionPane.showMessageDialog(null, "You arent sure how to handle some of your emotions, \nbut there is no easy way out, and even if youd rather skip them for the time being, this wont be possible today.\n You must face the music, especially the atmosphere around dishonest approaches\n of other people and your need to lie to yourself along the way.\n" + 
+							"\n" + 
+							"Some bruises wont pass overnight and wont be jumped over. Still, this doesnt mean \nyou should bury yourself in sorrow over past times. Be careful to see the light of the wide open future\n as well, every step of the way.");
+}
+				else if (StarSign.contentEquals("Sagittarius")) {
+					JOptionPane.showMessageDialog(null, "There is a hiking trail going from one coast to the other, between California\n and Delaware. There are ways to find peace and inner calm, but they might take you on an\n unexpectedly long journey, one that is physically and psychologically draining\n and demanding.\n" + 
+							"\n" + 
+							"Take a moment, breathe in, and let your daily decisions reflect\n your current state with your heart involved every step of the way. As\n rational as you can be, you also need open doors for your own emotional world to blossom,\nindependent of other people.");
+}
+				else if (StarSign.contentEquals("Capricorn")) {
+					JOptionPane.showMessageDialog(null, "There is a hiking trail going from one coast to the other, between California and Delaware.\n There are ways to find peace and inner calm, but they might take you on an \nunexpectedly long journey, one that is physically and\n psychologically draining and demanding.\n" + 
+							"\n" + 
+							"Take a moment, breathe in, and let your daily decisions reflect your current state\n with your heart involved every step of the way. As rational as you can be, you also need\n open doors for your own emotional world to blossom,\n independent of other people.");
+}
+				else if (StarSign.contentEquals("Aquarius")) {
+					JOptionPane.showMessageDialog(null, " You know that there are investments that you wouldnt want to miss out on,\n but this could be a poor timing for any big financial moves. \nThink in advance, make solid plans you will stick to no matter\n what happens in the world around you, and prepare\n yourself for all possible turnouts.\n" + 
+							"\n" + 
+							"Dont forget that Mercury is still in its retrograde phase and think all new\n contracts, car deals, and electronic equipment investments through, as many\n times as necessary.");
+}
+				else if (StarSign.contentEquals("Pisces")) {
+					JOptionPane.showMessageDialog(null, "As you think about some missed opportunities and things that inspired you to take a leap of faith,\n you could come to find that numerous talents have been unemployed and \nyou have opportunities to use at any given time. You dont want to close all\n those open doors in front of you.\n" + 
+							"\n" + 
+							"Dreaming big has never been your problem but trusting your gut\n may have been. Focus on small, practical steps forwards instead of imagining futures too far \nahead.");
 }
 }
 }
